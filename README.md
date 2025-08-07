@@ -49,7 +49,7 @@ npx -y @smithery/cli@latest install @sargonpiraev/confluence-mcp-server --client
 
 #### Cursor One-Click Installation
 
-[![Install MCP Server](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.com/install-mcp?name=@sargonpiraev/confluence-mcp-server&config=)
+[![Install MCP Server](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.com/install-mcp?name=@sargonpiraev/confluence-mcp-server&config=eyJjb21tYW5kIjoibnB4IiwiYXJncyI6WyIteSIsIkBzYXJnb25waXJhZXYvY29uZmx1ZW5jZS1tY3Atc2VydmVyIl0sImVudiI6eyJDT05GTFVFTkNFX0NMSUVOVF9JRCI6InlvdXJfY29uZmx1ZW5jZV9jbGllbnRfaWRfaGVyZSIsIkNPTkZMVUVOQ0VfQ0xJRU5UX1NFQ1JFVCI6InlvdXJfY29uZmx1ZW5jZV9jbGllbnRfc2VjcmV0X2hlcmUifX0=)
 
 #### Manual Configuration
 
